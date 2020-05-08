@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1B4rv3EsOyBfZ5ncpWgMzJScUGcHYMWqPLshvothZpiGO3JQxnqrpeXbLBE/JJoArCWroDR/uhMl+Zlx/0d9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c.augusto\\Desktop\\Desktop\\Docker\\minhaapi\\ApiPratica\\ApiPratica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c.augusto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
